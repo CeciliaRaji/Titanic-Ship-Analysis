@@ -31,3 +31,11 @@ The titanic dataset typically includes the following columns:
 - Fare: The amount of money the passenger paid for the ticket.
 
 This dashboard was created to understand the key events that happened before and after the titanic accident.
+## Skills Demonstrated
+- DAX
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
