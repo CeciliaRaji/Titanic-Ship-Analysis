@@ -19,6 +19,12 @@ The titanic dataset typically includes the following columns:
 - SibSp: The number of siblings or spouses the passenger had aboard the Titanic.
 
 - Parch: The number of parents or children the passenger had aboard the Titanic.
+- ## Project Questions
+
+- What is the gender distribution of the passengers onboard?
+- Out of the dead passengers, how many bodies were found?
+- With regards to passenger ticket class, how many of them survived or died?
+- Did more females survive compared to male?
 
 - Ticket: The ticket number.
 
