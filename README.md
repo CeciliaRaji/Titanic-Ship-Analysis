@@ -48,3 +48,5 @@ This dashboard was created to understand the key events that happened before and
 
 #### Page 2
 
+![Titanic Dashboard image 2](https://github.com/CeciliaRaji/Titanic-Ship-Analysis/assets/166234463/b675525d-d5f6-4165-9e8a-9ad47aaa3abc)
+
