@@ -39,3 +39,5 @@ This dashboard was created to understand the key events that happened before and
 - Data Transformation
 - Data Extraction
 - Data Modelling
+
+![Titanic Dashboard image 1](https://github.com/CeciliaRaji/Titanic-Ship-Analysis/assets/166234463/c50d2a2c-d2e2-4121-a46f-4ba4dc345b9d)
