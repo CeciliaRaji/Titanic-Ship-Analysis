@@ -1,4 +1,5 @@
 # Titanic-Ship-Analysis
+![titanic image](https://github.com/CeciliaRaji/Titanic-Ship-Analysis/assets/166234463/f0e48e9e-28eb-46cb-a010-b439e66ab640)
 ## Introduction
 
 The titanic dataset typically includes the following columns:
